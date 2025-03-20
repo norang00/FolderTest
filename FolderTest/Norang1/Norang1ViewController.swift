@@ -12,7 +12,9 @@ class Norang1ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        print("Norang1 norang2")
         print("Norang1 norang1")
+
         // Do any additional setup after loading the view.
     }
     
