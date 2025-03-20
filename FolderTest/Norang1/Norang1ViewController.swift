@@ -13,6 +13,8 @@ class Norang1ViewController: UIViewController {
         super.viewDidLoad()
 
         print("Norang1 norang2")
+        print("Norang1 norang1")
+
         // Do any additional setup after loading the view.
     }
     
